@@ -39,6 +39,9 @@
         "not dead",
         "not op_mini all"
       ],
+      "PAT": [
+        "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"
+      ],
       "development": [
         "last 1 chrome version",
         "last 1 firefox version",
